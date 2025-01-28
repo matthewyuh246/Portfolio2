@@ -134,7 +134,7 @@ import {
       iconBg: "#ffffff",
       date: "October 2024 - Present",
       points: [
-        "Community members: 8",
+        "Community members: 10",
         "The basic activity is to give a presentation once a week on what we have learned that week.",
         "We also participate in hackathons as part of our team development practice, and actively participate in study groups and student social gatherings held on connpass and other sites!",
       ],
