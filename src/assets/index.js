@@ -30,12 +30,14 @@ import progate from "./company/progate.png";
 import kogakuin from "./company/kogakuin.png";
 import community from "./company/community.png";
 import connpass from "./company/connpass.png";
+import activecore from "./company/activecore.jfif";
 
 import qrcode from "./qrcode.png";
 import mapchat from "./mapchat.png";
 import furo from "./furo.png";
 
 export {
+  activecore,
   logo,
   backend,
   creator,

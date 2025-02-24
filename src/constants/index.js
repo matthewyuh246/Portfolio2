@@ -17,6 +17,7 @@ import {
     mysql,
     geekcamp,
     kogakuin,
+    activecore,
     community,
     progate,
     connpass,
@@ -134,7 +135,7 @@ import {
       iconBg: "#ffffff",
       date: "October 2024 - Present",
       points: [
-        "Community members: 10",
+        "Community members: 12",
         "The basic activity is to give a presentation once a week on what we have learned that week.",
         "We also participate in hackathons as part of our team development practice, and actively participate in study groups and student social gatherings held on connpass and other sites!",
       ],
@@ -224,6 +225,25 @@ import {
                 url: "https://docs.google.com/presentation/d/1QDn-A4Fc-5dGqT-dhB04aR5CEcgwjPX1v7d84bZvvaw/edit?usp=sharing",
             }
         ],
+    },
+    {
+      title: "Backend Engineering Internship",
+      company_name: "activecore",
+      icon: activecore,
+      iconBg: "#ffffff",
+      date: "March 2025",
+      points: [
+        "Work: Backend Engineer",
+        "Backend implementation using Golang",
+        "Data processing and API development to implement functions that support the foundation of the business system",
+        "For example, develop a system to efficiently process large customer data sets.",
+      ],
+      links: [
+          {
+              label: "activecore",
+              url: "https://www.activecore.co.jp/",
+          }
+      ],
     },
   ];
   
