@@ -200,31 +200,31 @@ import {
       ],
     },
     {
-        title: "geekcamp vol.20",
-        company_name: "geekcamp",
-        icon: geekcamp,
-        iconBg: "#ffffff",
-        date: "January 2025(10 days)",
-        points: [
-          "Work: MapChat",
-          "Responsible for: Frontend, Backend(WebSocket), Infrastructure",
-          "Tech stack: Go(Echo) , TypeScript(Next.js), Postgresql, Docker, AWS(S3), Render, Vercel, GoogleMapAPI, Websocket(gorilla)",
-          "We were a team of 5 community members.",
-        ],
-        links: [
-            {
-                label: "GitHub Repository",
-                url: "https://github.com/matthewTechCom/giikucamp20",
-            },
-            {
-                label: "Demo Youtube",
-                url: "https://www.youtube.com/watch?v=6FCzCMR900Y&list=LL"
-            },
-            {
-                label: "GoogleSlide",
-                url: "https://docs.google.com/presentation/d/1QDn-A4Fc-5dGqT-dhB04aR5CEcgwjPX1v7d84bZvvaw/edit?usp=sharing",
-            }
-        ],
+      title: "geekcamp vol.20",
+      company_name: "geekcamp",
+      icon: geekcamp,
+      iconBg: "#ffffff",
+      date: "January 2025(10 days)",
+      points: [
+        "Work: MapChat",
+        "Responsible for: Frontend, Backend(WebSocket), Infrastructure",
+        "Tech stack: Go(Echo) , TypeScript(Next.js), Postgresql, Docker, AWS(S3), Render, Vercel, GoogleMapAPI, Websocket(gorilla)",
+        "We were a team of 5 community members.",
+      ],
+      links: [
+          {
+              label: "GitHub Repository",
+              url: "https://github.com/matthewTechCom/giikucamp20",
+          },
+          {
+              label: "Demo Youtube",
+              url: "https://www.youtube.com/watch?v=6FCzCMR900Y&list=LL"
+          },
+          {
+              label: "GoogleSlide",
+              url: "https://docs.google.com/presentation/d/1QDn-A4Fc-5dGqT-dhB04aR5CEcgwjPX1v7d84bZvvaw/edit?usp=sharing",
+          }
+      ],
     },
     {
       title: "Backend Engineering Internship",
