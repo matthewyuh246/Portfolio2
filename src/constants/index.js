@@ -18,6 +18,7 @@ import {
     geekcamp,
     kogakuin,
     activecore,
+    threeshake,
     community,
     progate,
     connpass,
@@ -242,6 +243,23 @@ import {
           {
               label: "activecore",
               url: "https://www.activecore.co.jp/",
+          }
+      ],
+    },
+    {
+      title: "SRE Engineering Internship",
+      company_name: "3-shake",
+      icon: threeshake,
+      iconBg: "#ffffff",
+      date: "March 2025",
+      points: [
+        "Work: Workshop",
+        "Hands-on session on the theme of “Cloud Native.”",
+      ],
+      links: [
+          {
+              label: "3-shake",
+              url: "https://3-shake.com",
           }
       ],
     },

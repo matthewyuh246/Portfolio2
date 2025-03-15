@@ -31,12 +31,14 @@ import kogakuin from "./company/kogakuin.png";
 import community from "./company/community.png";
 import connpass from "./company/connpass.png";
 import activecore from "./company/activecoreicon.jfif";
+import threeshake from "./company/3-shake.png";
 
 import qrcode from "./qrcode.png";
 import mapchat from "./mapchat.png";
 import furo from "./furo.png";
 
 export {
+  threeshake,
   activecore,
   logo,
   backend,
