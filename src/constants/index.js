@@ -131,12 +131,12 @@ import {
     },
     {
       title: "Establishment of a student engineering community",
-      company_name: "matthewTechCom",
+      company_name: "MaTech",
       icon: community,
       iconBg: "#ffffff",
       date: "October 2024 - Present",
       points: [
-        "Community members: 12",
+        "Community members: 20",
         "The basic activity is to give a presentation once a week on what we have learned that week.",
         "We also participate in hackathons as part of our team development practice, and actively participate in study groups and student social gatherings held on connpass and other sites!",
       ],
@@ -232,7 +232,7 @@ import {
       company_name: "activecore",
       icon: activecore,
       iconBg: "#ffffff",
-      date: "March 2025",
+      date: "March 2025 - present",
       points: [
         "Work: Backend Engineer",
         "Backend implementation using Golang",
@@ -247,14 +247,51 @@ import {
       ],
     },
     {
+      title: "Participation in Progate+AWS Hackathon(Mentor Award)",
+      company_name: "Progate+AWS Hackathon",
+      icon: progate,
+      iconBg: "#ffffff",
+      date: "March 2025(10 days)",
+      points: [
+        "Work: A business improvement app in Scrum development",
+        "Responsible for: Frontend, Backend, Infrastructure",
+        "Tech stack: Go(Echo) ,TypeScript(Next), Postgresql, Docker, AWS(S3, EC2, RDS, CloudFront, cognito, lambda, VPC)",
+        "I participated as part of the my community team.",
+      ],
+      links: [
+        {
+            label: "Topa'z",
+            url: "https://topaz.dev/projects/2652658a53e9ec6e1d72",
+        }
+      ],
+    },
+    {
       title: "SRE Engineering Internship",
       company_name: "3-shake",
       icon: threeshake,
       iconBg: "#ffffff",
-      date: "March 2025",
+      date: "March 2025(2 days)",
       points: [
         "Work: Workshop",
         "Hands-on session on the theme of “Cloud Native.”",
+      ],
+      links: [
+          {
+              label: "3-shake",
+              url: "https://3-shake.com",
+          }
+      ],
+    },
+    {
+      title: "SRE Engineering Internship",
+      company_name: "3-shake",
+      icon: threeshake,
+      iconBg: "#ffffff",
+      date: "May 2025 - June 2025(2 months)",
+      points: [
+        "Work: SRE Enginner",
+        "I will be starting a long-term internship as an SRE (Site Reliability Engineering) engineer. During this internship, I will gain hands-on experience with container technologies such as Kubernetes and Docker, focusing on automating infrastructure and improving system availability and scalability.",
+        "The internship will involve working in a cloud-native environment, with tasks such as monitoring, log collection, and building CI/CD pipelines. My goal is to develop the skills needed to build and maintain reliable infrastructure, and to become an engineer who can bridge the gap between development and operations.",
       ],
       links: [
           {
